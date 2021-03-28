@@ -1,1 +1,2 @@
-# PROJECT-C-43-TICK_TOCK_
+# p5.play-boilerplate
+Boiler plate for p5.play
